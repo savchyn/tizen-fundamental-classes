@@ -1,2 +1,5 @@
-# tizen-fundamental-classes
-Tizen Fundamental Classes is a framework library to develop native application in Tizen using C++ pattern
+# Telekom-Faundation-Classes
+
+## FAQ
+Q: What's Nullable?
+A: Good question, but it's probably NULL
