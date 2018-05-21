@@ -1,4 +1,4 @@
-# Telekom-Faundation-Classes
+# Telekom-Foundation-Classes
 
 ## FAQ
 Q: What's Nullable?
